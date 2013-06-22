@@ -1,0 +1,6 @@
+C:\git\Helitank\Helitank\Helitank\bin\x86\Debug\TestGame.exe
+C:\git\Helitank\Helitank\Helitank\bin\x86\Debug\TestGame.pdb
+C:\git\Helitank\Helitank\Helitank\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\git\Helitank\Helitank\Helitank\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\git\Helitank\Helitank\Helitank\obj\x86\Debug\TestGame.exe
+C:\git\Helitank\Helitank\Helitank\obj\x86\Debug\TestGame.pdb

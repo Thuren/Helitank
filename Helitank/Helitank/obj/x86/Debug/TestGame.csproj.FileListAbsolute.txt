@@ -1,0 +1,14 @@
+C:\Users\e1\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\TestGame.exe
+C:\Users\e1\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\TestGame.pdb
+C:\Users\e1\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\e1\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\e1\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\TestGame.exe
+C:\Users\e1\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\TestGame.pdb
+C:\Users\e1\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\1945.xnb
+C:\git\TestGame\TestGame\TestGame\bin\x86\Debug\Content\1945.xnb
+C:\git\TestGame\TestGame\TestGame\bin\x86\Debug\TestGame.exe
+C:\git\TestGame\TestGame\TestGame\bin\x86\Debug\TestGame.pdb
+C:\git\TestGame\TestGame\TestGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\git\TestGame\TestGame\TestGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\git\TestGame\TestGame\TestGame\obj\x86\Debug\TestGame.exe
+C:\git\TestGame\TestGame\TestGame\obj\x86\Debug\TestGame.pdb
